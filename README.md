@@ -4,7 +4,7 @@ The content here was based on what I learned on the Udemy course [100 Days of Co
 I hope it could be a guide to anyone and please feel free to comment anything. :D
 
 ### Built With
-
+<!-- Badge was generated using https://shields.io/ -->
 * [![Python][Python.py]][Python-url]
 
 <!-- LICENSE -->
