@@ -3,6 +3,8 @@ The content here was based on what I learned on the Udemy course [100 Days of Co
 
 I hope it could be a guide to anyone and please feel free to comment anything. :D
 
+**DISCLAIMER:** Days 1 to 7 are not listed here because I had some programming experience and I jumpd straight to day 7
+
 ### Built With
 <!-- Badge was generated using https://shields.io/ -->
 * [![Python][Python.py]][Python-url]
