@@ -1,4 +1,4 @@
-# On this script, trial division algorith is used as the chosen primality test
+# On this script, trial division algorithm is used as the chosen primality test
 import math
 
 def is_prime(num):
