@@ -1,3 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 ## About this repo
 The content here was based on what I learned on the Udemy course [100 Days of Code: The Complete Python Pro Bootcamp][python-course] taught by Dr. Angela Yu. I want to share how this journey looked for me.
 
@@ -24,6 +32,18 @@ Project Link: [https://github.com/Beib8483/my-readme-template](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Beib8483/100-days-of-code-py.svg?style=for-the-badge
+[contributors-url]: https://github.com/Beib8483/100-days-of-code-py/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Beib8483/100-days-of-code-py.svg?style=for-the-badge
+[forks-url]: https://github.com/Beib8483/100-days-of-code-py/network/members
+[stars-shield]: https://img.shields.io/github/stars/Beib8483/100-days-of-code-py.svg?style=for-the-badge
+[stars-url]: https://github.com/Beib8483/100-days-of-code-py/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Beib8483/100-days-of-code-py.svg?style=for-the-badge
+[issues-url]: https://github.com/Beib8483/100-days-of-code-py/issues
+[license-shield]: https://img.shields.io/github/license/Beib8483/100-days-of-code-py.svg?style=for-the-badge
+[license-url]: https://github.com/Beib8483/100-days-of-code-py/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/josue-salvador-cervantes-ramirez-txmx
 [python-course]: https://www.udemy.com/share/103J8C3@KoHWGbl88haipxfgQ7Hvkg5HuHYTipFKRvOfmOyscN6gm86S4G1YaZXziqCy1f2_/
 [Python-url]: https://www.python.org/
 [Python.py]: https://img.shields.io/badge/python-py?style=plastic&logo=python
