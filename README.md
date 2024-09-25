@@ -27,7 +27,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Josue Cervantes - josuesalvador5@hotmail.com
 
-Project Link: [https://github.com/Beib8483/my-readme-template](https://github.com/Beib8483/my-readme-template)
+Project Link: [https://github.com/Beib8483/100-days-of-code-py](https://github.com/Beib8483/100-days-of-code-py)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
