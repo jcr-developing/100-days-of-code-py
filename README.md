@@ -27,21 +27,21 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Josue Cervantes - josuesalvador5@hotmail.com
 
-Project Link: [https://github.com/Beib8483/100-days-of-code-py](https://github.com/Beib8483/100-days-of-code-py)
+Project Link: [https://github.com/jcr-developing/100-days-of-code-py](https://github.com/jcr-developing/100-days-of-code-py)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Beib8483/100-days-of-code-py.svg?style=for-the-badge
-[contributors-url]: https://github.com/Beib8483/100-days-of-code-py/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Beib8483/100-days-of-code-py.svg?style=for-the-badge
-[forks-url]: https://github.com/Beib8483/100-days-of-code-py/network/members
-[stars-shield]: https://img.shields.io/github/stars/Beib8483/100-days-of-code-py.svg?style=for-the-badge
-[stars-url]: https://github.com/Beib8483/100-days-of-code-py/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Beib8483/100-days-of-code-py.svg?style=for-the-badge
-[issues-url]: https://github.com/Beib8483/100-days-of-code-py/issues
-[license-shield]: https://img.shields.io/github/license/Beib8483/100-days-of-code-py.svg?style=for-the-badge
-[license-url]: https://github.com/Beib8483/100-days-of-code-py/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jcr-developing/100-days-of-code-py.svg?style=for-the-badge
+[contributors-url]: https://github.com/jcr-developing/100-days-of-code-py/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jcr-developing/100-days-of-code-py.svg?style=for-the-badge
+[forks-url]: https://github.com/jcr-developing/100-days-of-code-py/network/members
+[stars-shield]: https://img.shields.io/github/stars/jcr-developing/100-days-of-code-py.svg?style=for-the-badge
+[stars-url]: https://github.com/jcr-developing/100-days-of-code-py/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jcr-developing/100-days-of-code-py.svg?style=for-the-badge
+[issues-url]: https://github.com/jcr-developing/100-days-of-code-py/issues
+[license-shield]: https://img.shields.io/github/license/jcr-developing/100-days-of-code-py.svg?style=for-the-badge
+[license-url]: https://github.com/jcr-developing/100-days-of-code-py/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/josue-salvador-cervantes-ramirez-txmx
 [python-course]: https://www.udemy.com/share/103J8C3@KoHWGbl88haipxfgQ7Hvkg5HuHYTipFKRvOfmOyscN6gm86S4G1YaZXziqCy1f2_/
